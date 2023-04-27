@@ -23,3 +23,4 @@ This project is licensed under the terms of the GNU license.
 
 ### Potential New Module: 
 > I think it would be cool if we could have the user input their favorite color then suggest outfits that match that! hi
+
