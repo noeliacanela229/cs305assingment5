@@ -22,4 +22,4 @@ Now I want to finish this code because I want to have a project to put in my res
 This project is licensed under the terms of the GNU license.
 
 ### Potential New Module: 
-> I think it would be cool if we could have the user input their favorite color then suggest outfits that match that! hi
+> I think it would be cool if we could have the user input their favorite color then suggest outfits that match that!
